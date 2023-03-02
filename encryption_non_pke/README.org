@@ -1,4 +1,4 @@
-* Here's my decription assignment:(https://replit.com/@BenjaminEckley/decrypt#main.py)
+* Here's my decryption assignment:(https://replit.com/@BenjaminEckley/decrypt#main.py)
 
 * Instructions
 
