@@ -1,5 +1,5 @@
 * [Here's my decryption assignment](https://replit.com/@BenjaminEckley/decrypt#main.py)
-
+* [And here's my encryption exercise!!](https://replit.com/@BenjaminEckley/encrypt#main.py)
 * Instructions
 
 ** If you are presenting this unit:
